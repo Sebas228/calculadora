@@ -47,6 +47,10 @@ npm pod-install
 npx react-native run-ios
 ```
 
+## Screenshots 📷
+
+![Estado Inicial](./screenshots/aplicacion.png)
+
 ## Construido con 🛠️
 
 * [React Native](https://github.com/facebook/react-native) - El framework movil usado
